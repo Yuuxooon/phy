@@ -1,12 +1,12 @@
 {
   "name": "phy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "bun src/main.js",
     "dev": "nodemon src/main.js",
-    "RSC": "node src/refreshSlashCommands.js",
+    "rsc": "node src/refreshSlashCommands.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
